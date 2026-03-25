@@ -1,0 +1,1 @@
+streamlit run "C:\Users\keysh\OneDrive\Documents\2602088153_Keysha Rahma Hidayat\Model Deployment\ASG 3\No. 2\apps\main.py"

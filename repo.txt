@@ -1,0 +1,27 @@
+main/
+│
+├── pyproject.toml
+├── requirements.txt
+├── README.md
+│
+├── artifacts/
+│   └── pipeline.pkl
+│
+├── apps/
+│   ├── __init__.py
+│   └── main.py
+│
+├── utils/
+│   ├── __init__.py
+│   └── helper.py
+│
+└── src/
+    ├── __init__.py
+    │
+    ├── pipeline/
+    │   ├── __init__.py
+    │   └── pipeline.py
+    │
+    └── models/
+        ├── __init__.py
+        └── predict.py
