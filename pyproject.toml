@@ -1,0 +1,10 @@
+[project]
+name = "asgmd05"
+version = "0.1.0"
+description = "ML Streamlit App with Pipeline"
+authors = [
+    {name = "Your Name"}
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
