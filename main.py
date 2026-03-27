@@ -4,7 +4,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from utils.helper import make_prediction
+from helper import make_prediction
 
 st.set_page_config(page_title="ML Prediction App")
 
