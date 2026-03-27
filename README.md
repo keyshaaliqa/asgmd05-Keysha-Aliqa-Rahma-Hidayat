@@ -1,1 +1,0 @@
-# asgmd05-Keysha-Aliqa-Rahma-Hidayat
